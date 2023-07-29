@@ -31,9 +31,10 @@ This repository demonstrates the magic and elegance of bash scripting by showcas
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/beautiful-bash-scripting.git
+git clone https://github.com/your-username/AUTOMATE-REPO.git
 ```
 ## Contribution
 
-Contributions are welcome! If you have a beautiful bash script or a cool bash trick, feel free to open a pull request.
+1. Contributions are welcome! 
+ If you have a beautiful bash script or a cool bash trick, feel free to open a pull request.
 Let's make this repository a valuable resource for the bash scripting community.
