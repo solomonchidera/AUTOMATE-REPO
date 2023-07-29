@@ -32,7 +32,7 @@ This repository demonstrates the magic and elegance of bash scripting by showcas
 
 ```bash
 git clone https://github.com/your-username/beautiful-bash-scripting.git
-
+```
 ## Contribution
 
 Contributions are welcome! If you have a beautiful bash script or a cool bash trick, feel free to open a pull request.
