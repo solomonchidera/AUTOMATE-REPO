@@ -6,7 +6,7 @@ Welcome to the world of Beautiful Bash Scripting! 🚀
 
 ## Introduction
 
-Bash (Bourne Again SHell) is a powerful and versatile scripting language available on most Unix-like operating systems. It provides a command-line interface to interact with the system, automating repetitive tasks, and performing complex operations efficiently.
+Bash (Bourne Again SHell) is a powerful and versatile scripting language on most Unix-like operating systems. It provides a command-line interface to interact with the system, automating repetitive tasks, and performing complex operations efficiently.
 
 This repository demonstrates the magic and elegance of bash scripting by showcasing various scripts and examples that can make your life as a developer, sysadmin, or just a curious enthusiast, much more productive and fun!
 
