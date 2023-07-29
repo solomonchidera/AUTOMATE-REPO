@@ -36,5 +36,6 @@ git clone https://github.com/your-username/AUTOMATE-REPO.git
 ## Contribution
 
 1. Contributions are welcome! 
- If you have a beautiful bash script or a cool bash trick, feel free to open a pull request.
+If you have a beautiful bash script or a cool bash trick, 
+   Feel free to open a pull request.
 Let's make this repository a valuable resource for the bash scripting community.
