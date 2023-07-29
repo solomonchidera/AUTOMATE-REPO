@@ -33,6 +33,19 @@ This repository demonstrates the magic and elegance of bash scripting by showcas
 ```bash
 git clone https://github.com/your-username/AUTOMATE-REPO.git
 ```
+2. Browse through the various bash scripts in the repository.
+
+3. To run a bash script, use the following command:
+
+```bash
+bash script_name.sh
+```
+4. Or you can make the file executable by using the ```chmod +x filename``` or ```chmod 777 filename``` before running it with this command
+
+```bash
+./filename.sh
+```
+
 ## Contribution
 
 1. Contributions are welcome! 
