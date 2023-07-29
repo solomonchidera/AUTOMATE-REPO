@@ -48,7 +48,7 @@ bash script_name.sh
 
 ## Contribution
 
-1. Contributions are welcome! 
+1. **Contributions are welcome!**
 If you have a beautiful bash script or a cool bash trick, 
    Feel free to open a pull request.
 Let's make this repository a valuable resource for the bash scripting community.
